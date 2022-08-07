@@ -135,7 +135,7 @@
 🪄✨ [Contributing](https://github.com/matriarx/.github/blob/main/docs/contributing.md)\
 🪄✨ [Security](https://github.com/matriarx/.github/blob/main/docs/security.md)\
 🪄✨ [Changelog](https://github.com/matriarx/discussions/blob/main/docs/changelog.md)\
-🪄✨ [Release Notes](https://github.com/matriarx/discussions/blob/docs/main/release.md)\
+🪄✨ [Release Notes](https://github.com/matriarx/discussions/blob/main/docs/release.md)\
 🪄✨ [Authors](https://github.com/matriarx/discussions/blob/main/docs/authors.md)\
 🪄✨ [Contributors](https://github.com/matriarx/discussions/blob/main/docs/contributors.md)\
 🪄✨ [Acknowledgements](https://github.com/matriarx/discussions/blob/main/docs/acknowledgements.md)\
