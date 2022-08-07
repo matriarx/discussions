@@ -140,8 +140,8 @@
 🪄✨ [Release Notes](https://github.com/matriarx/discussions/blob/docs/main/release.md)\
 🪄✨ [Authors](https://github.com/matriarx/discussions/blob/main/docs/authors.md)\
 🪄✨ [Contributors](https://github.com/matriarx/discussions/blob/main/docs/contributors.md)\
-🪄✨ [Acknowledgements](https://github.com/matriarx/discussions/blob/main/acknowledgements.md)\
-🪄✨ [Supporters](https://github.com/matriarx/discussions/blob/main/supporters.md)\
+🪄✨ [Acknowledgements](https://github.com/matriarx/discussions/blob/main/docs/acknowledgements.md)\
+🪄✨ [Supporters](https://github.com/matriarx/discussions/blob/main/docs/supporters.md)\
 🪄✨ [Contact](https://github.com/matriarx/.github/blob/main/docs/support.md)\
 🪄✨ [License](https://github.com/matriarx/discussions/blob/main/license)
 
