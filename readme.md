@@ -1,7 +1,7 @@
 <h1 align="center">🧚🏻‍♀️✨ Discussions ✨🧚🏻‍♀️🦄🔮🏰💕</h1>
 
 <div align="center">
-  <p>🔮 Matriarx Discussions 🦄</p>
+  <p>🔮 Discussions 🦄</p>
 
   <p><i>🧚🏻‍♀️✨ Created with sprinkles of ✨ and oodles of 💕</i></p>
 
@@ -33,78 +33,15 @@
   </p>
 
   <p>
+    <a href="https://discord.gg/matriarx">🧚🏻‍♀️✨</a>
     <a href="https://discord.gg/matriarx">
       <img src="https://img.shields.io/discord/967555118679601212?logo=discord&label=Join+the+community&color=738adb&logoColor=ffffff" title="Join the community" alt="Join the community"/>
     </a>
+    <a href="https://discord.gg/matriarx">✨💕</a>
   </p>
 </div>
 
-## 🧚🏻‍♀️✨ Status 🏰☁️
-
-<p>
-  <a href="https://github.com/matriarx/discussions/actions">
-    <img src="https://github.com/matriarx/discussions/actions/workflows/dependencies.yaml/badge.svg" title="Dependencies" alt="Dependencies"/>
-  </a>
-  <a href="https://github.com/matriarx/discussions/actions">
-    <img src="https://github.com/matriarx/discussions/actions/workflows/ci.yaml/badge.svg" title="CI" alt="CI"/>
-  </a>
-  <a href="https://github.com/matriarx/discussions/actions">
-    <img src="https://github.com/matriarx/discussions/actions/workflows/cd.yaml/badge.svg" title="CD" alt="CD"/>
-  </a>
-  <a href="https://github.com/matriarx/discussions/actions">
-    <img src="https://github.com/matriarx/discussions/actions/workflows/release.yaml/badge.svg" title="Release" alt="Release"/>
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/matriarx/discussions">
-    <img src="https://sonarcloud.io/images/project_badges/sonarcloud-black.svg" title="SonarCloud" alt="SonarCloud"/>
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/matriarx/discussions">
-    <img src="https://sonarcloud.io/api/project_badges/measure?project=matriarx_discussions&metric=alert_status" title="Quality Gate" alt="Quality Gate"/>
-  </a>
-  <a href="https://github.com/matriarx/discussions">
-    <img src="https://sonarcloud.io/api/project_badges/measure?project=matriarx_discussions&metric=security_rating" title="Security" alt="Security"/>
-  </a>
-  <a href="https://github.com/matriarx/discussions">
-    <img src="https://sonarcloud.io/api/project_badges/measure?project=matriarx_discussions&metric=reliability_rating" title="Reliability" alt="Reliability"/>
-  </a>
-  <a href="https://github.com/matriarx/discussions">
-    <img src="https://sonarcloud.io/api/project_badges/measure?project=matriarx_discussions&metric=sqale_rating" title="Maintainability" alt="Maintainability"/>
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/matriarx/discussions">
-    <img src="https://sonarcloud.io/api/project_badges/measure?project=matriarx_discussions&metric=vulnerabilities" title="Vulnerabilities" alt="Vulnerabilities"/>
-  </a>
-  <a href="https://github.com/matriarx/discussions">
-    <img src="https://sonarcloud.io/api/project_badges/measure?project=matriarx_discussions&metric=bugs" title="Bugs" alt="Bugs"/>
-  </a>
-  <a href="https://github.com/matriarx/discussions">
-    <img src="https://sonarcloud.io/api/project_badges/measure?project=matriarx_discussions&metric=code_smells" title="Code Smells" alt="Code Smells"/>
-  </a>
-  <a href="https://github.com/matriarx/discussions">
-    <img src="https://sonarcloud.io/api/project_badges/measure?project=matriarx_discussions&metric=sqale_index" title="Technical Debt" alt="Technical Debt"/>
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/matriarx/discussions">
-    <img src="https://sonarcloud.io/api/project_badges/measure?project=matriarx_discussions&metric=ncloc" title="Lines Of Code" alt="Lines Of Code"/>
-  </a>
-  <a href="https://github.com/matriarx/discussions">
-    <img src="https://sonarcloud.io/api/project_badges/measure?project=matriarx_discussions&metric=duplicated_lines_density" title="Duplicated Lines" alt="Duplicated Lines"/>
-  </a>
-  <a href="https://github.com/matriarx/discussions">
-    <img src="https://sonarcloud.io/api/project_badges/measure?project=matriarx_discussions&metric=coverage" title="Coverage" alt="Coverage"/>
-  </a>
-</p>
-
-## 🧚🏻‍♀️✨ Repository 📚🎶
+## 🧚🏻‍♀️✨ Repository 📚🚀
 
 <p>
   <a href="https://github.com/matriarx/discussions">
@@ -191,12 +128,12 @@
 
 ## 🧚🏻‍♀️✨ Documentation 📚🔮
 
-🪄✨ [Code of Conduct](https://github.com/matriarx/.github/blob/main/docs/code_of_conduct.md)\
-🪄✨ [Support](https://github.com/matriarx/.github/blob/main/docs/support.md)\
+🪄✨ [Project](https://github.com/matriarx/discussions/projects)\
 🪄✨ [Discussions](https://github.com/matriarx/discussions/discussions)\
-🪄✨ [Projects](https://github.com/matriarx/discussions/projects)\
 🪄✨ [Wiki](https://github.com/matriarx/discussions/wiki)\
-🪄✨ [Docs](https://github.com/matriarx/discussions/blob/main/docs)\
+🪄✨ [Docs](https://github.com/matriarx/discussions/blob/main/docs/readme.md)\
+🪄✨ [Source Code](https://github.com/matriarx/.github/blob/main/src/readme.md)\
+🪄✨ [Code of Conduct](https://github.com/matriarx/.github/blob/main/docs/code_of_conduct.md)\
 🪄✨ [Contributing](https://github.com/matriarx/.github/blob/main/docs/contributing.md)\
 🪄✨ [Security](https://github.com/matriarx/.github/blob/main/docs/security.md)\
 🪄✨ [Changelog](https://github.com/matriarx/discussions/blob/main/docs/changelog.md)\
@@ -204,17 +141,21 @@
 🪄✨ [Authors](https://github.com/matriarx/discussions/blob/main/docs/authors.md)\
 🪄✨ [Contributors](https://github.com/matriarx/discussions/blob/main/docs/contributors.md)\
 🪄✨ [Acknowledgements](https://github.com/matriarx/discussions/blob/main/acknowledgements.md)\
+🪄✨ [Supporters](https://github.com/matriarx/discussions/blob/main/supporters.md)\
+🪄✨ [Contact](https://github.com/matriarx/.github/blob/main/docs/support.md)\
 🪄✨ [License](https://github.com/matriarx/discussions/blob/main/license)
 
-## 🧚🏻‍♀️✨ Contributors 💎🚀
+## 🧚🏻‍♀️✨ Support 🧚🏻‍♀️🦄
 
-Thank you to all the [authors](https://github.com/matriarx/discussions/blob/main/docs/authors.md) and [contributors](https://github.com/matriarx/discussions/blob/main/docs/contributors.md) who contributed to this project, as well as notable [acknowledgements](https://github.com/matriarx/discussions/blob/main/docs/acknowledgements.md).
+🧚🏻‍♀️✨ Interested in earning some fantastic rewards? 🦄🔮
 
-![Contributors](https://contrib.rocks/image?repo=matriarx/discussions)
+You can have a look at my [GitHub](https://github.com/sponsors/miamatriarx) or [Patreon](https://patreon.com/miamatriarx) pages, there are some fantastic rewards you can earn by supporting me ✨🧚🏻‍♀️
 
-If you would like to contribute have a look at our [code of conduct](https://github.com/miamatriarx/.github/blob/main/docs/code_of_conduct.md) and [contributing](https://github.com/miamatriarx/.github/blob/main/docs/contributing.md).
+I build free and open source software which means that instead of spending my invaluable time making money, I give it away for free to make cool things for people.  It brings me joy to create things that add value to people's life and I would like to be able to continue doing so, but I'm dependent on people who support me.
 
-## 🧚🏻‍♀️✨ License ✨🚀
+At the cost of a coffee you can help make the world a better place ✨💕
+
+## 🧚🏻‍♀️✨ License ✨💕
 
 <p>
   <a href="https://github.com/matriarx/discussions/blob/main/license">
@@ -268,14 +209,16 @@ If you would like to contribute have a look at our [code of conduct](https://git
   </p>
 
   <p>
+    <a href="https://discord.gg/matriarx">🧚🏻‍♀️✨</a>
     <a href="https://discord.gg/matriarx">
       <img src="https://img.shields.io/discord/967555118679601212?logo=discord&label=Join+the+community&color=738adb&logoColor=ffffff" title="Join the community" alt="Join the community"/>
     </a>
+    <a href="https://discord.gg/matriarx">✨💕</a>
   </p>
 
   <p>
     <a href="https://github.com/miamatriarx">
-      <img src="https://contrib.rocks/image?repo=miamatriarx/miamatriarx" title="Mia Matriarx" alt="Mia Matriarx"/>
+      <img src="https://contrib.rocks/image?repo=matriarx/discussionsmatriarx" title="Mia Matriarx" alt="Mia Matriarx"/>
     </a>
   </p>
 
