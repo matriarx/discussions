@@ -143,17 +143,13 @@
 🪄✨ [Contact](https://github.com/matriarx/.github/blob/main/docs/support.md)\
 🪄✨ [License](https://github.com/matriarx/discussions/blob/main/license)
 
-## 🧚🏻‍♀️✨ Support ✨💕
+## 🧚🏻‍♀️✨ Collaboration ✨💕
 
-🧚🏻‍♀️✨ Interested in earning some fantastic rewards? 🔮✨
+Thank you to the [authors](https://github.com/matriarx/discussions/blob/main/docs/authors.md) who created this project, the [contributors](https://github.com/matriarx/discussions/blob/main/docs/contributors.md) who collaborated, the [supporters](https://github.com/matriarx/discussions/blob/main/docs/supporters.md) who help make it possible, as well as notable [acknowledgements](https://github.com/matriarx/discussions/blob/main/docs/acknowledgements.md).
 
-Have a look at my [GitHub](https://github.com/sponsors/matriarx) or [Patreon](https://patreon.com/miamatriarx) pages, there are some fantastic <a href="https://github.com/sponsors/matriarx">rewards</a> you can earn by supporting me ✨🧚🏻‍♀️
+🧚🏻‍♀️✨ Contributors 💎🚀
 
-I create free and open source software published under MIT. It brings me joy to make things that add value to people's life and I would like to be able to continue doing so 🦄✨
-
-At the cost of a coffee you can help make the world a better place ✨💕
-
-🧚🏻‍♀️✨ A special thank you to all the wonderful [supporters](https://github.com/matriarx/discussions/blob/main/docs/supporters.md) who make it all possible ✨💕
+![Contributors](https://contrib.rocks/image?repo=matriarx/discussions)
 
 ## 🧚🏻‍♀️✨ License 🔮✨
 
